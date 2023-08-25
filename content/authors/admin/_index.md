@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Alice Wu (吳恩達)
+title: Isak Tseggai Teklehaimanot
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: ''
+role: Software Developer
 
 # Status emoji
 status:
